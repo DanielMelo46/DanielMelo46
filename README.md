@@ -36,18 +36,18 @@ I’m passionate about what I like to call "code power", especially when it come
 
 ## 🛠️ Highlight Projects
 
-### ⚙️ [Automated ETL for Financial Reporting (WOM Colombia)](#)
+### ⚙️ Automated ETL for Financial Reporting (WOM Colombia)
 
 - Python-based pipeline using Pandas, NumPy, Plotly, Dash.
 - Automated manual tasks, reduced workload by 80%.
 - Integrated agile SCRUM methodology.
 
-### 📊 [Public Transit Dashboard (Nua Technology)](#)
+### 📊 Public Transit Dashboard (Nua Technology)
 
 - Built dashboards in Amazon QuickSight and Power BI.
 - Delivered insights for Medellín’s Metro system using real-time data.
 
-### 💻 [Java Tutoring & Mentorship (University)](#)
+### 💻 Java Tutoring & Mentorship (University)
 
 - Supported 30+ students in mastering Java OOP.
 - Helped raise course completion by 40%.
