@@ -4,22 +4,14 @@
 Winnipeg, MB | 🌐 [LinkedIn](https://www.linkedin.com/in/danielmelocastiblanco)\
 [daniel.melo.castiblanco@gmail.com](mailto:daniel.melo.castiblanco@gmail.com)
 
----
 
 ## About Me
 
 I'm a results-driven professional with experience in building scalable ETL pipelines, automating reporting workflows, and developing cloud-based data solutions.\
 I’m passionate about what I like to call "code power", especially when it comes to data that can solve real-world (even those we consider small day-to-day time savers) problems when treated properly.
 
-**Currently seeking opportunities** in:
 
-- Data Analytics
-- Data Engineering
-- ETL Development
-
----
-
-## Tech Toolbox
+## My Expertise
 
 **Languages & Tools:**\
 `Python` `SQL` `Java (OOP)` `Bash`\
@@ -27,19 +19,19 @@ I’m passionate about what I like to call "code power", especially when it come
 `AWS Glue` `Pandas` `NumPy` `Scikit-learn`\
 **Cloud & Infrastructure:**\
 `AWS (EC2, S3, Lambda, Athena, DynamoDB, IoT Core)` `Docker` `IaC`\
-**Data Viz & Reporting:**\
+**Data Visualization and Reporting:**\
 `Power BI` `Amazon QuickSight` `Plotly` `Dash`\
 **Other:**\
 `Git & GitHub` `Jira` `MongoDB` `Excel (Advanced)`
 
 ---
 
-## Highlight Projects
+## Projects
 
 ### Automated ETL for Financial Reporting (WOM Colombia)
 
 - Python-based pipeline using Pandas, NumPy, Plotly, Dash.
-- Automated manual tasks, reduced workload by 80%.
+- Automated manual tasks reduced workload by 80%.
 - Integrated agile SCRUM methodology.
 
 ### Public Transit Dashboard (Nua Technology)
@@ -47,10 +39,6 @@ I’m passionate about what I like to call "code power", especially when it come
 - Built dashboards in Amazon QuickSight and Power BI.
 - Delivered insights for Medellín’s Metro system using real-time data.
 
-### Java Tutoring & Mentorship (University)
-
-- Supported 30+ students in mastering Java OOP.
-- Helped raise course completion by 40%.
 
 ---
 
