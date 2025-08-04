@@ -24,7 +24,6 @@ I’m passionate about what I like to call "code power", especially when it come
 **Other:**\
 `Git & GitHub` `Jira` `MongoDB` `Excel (Advanced)`
 
----
 
 ## Projects
 
@@ -40,8 +39,6 @@ I’m passionate about what I like to call "code power", especially when it come
 - Delivered insights for Medellín’s Metro system using real-time data.
 
 
----
-
 ## Education & Certifications
 
 **Diploma in Data Science and Machine Learning**\
@@ -54,9 +51,8 @@ I’m passionate about what I like to call "code power", especially when it come
 - Create Machine Learning Models with Microsoft Azure (Microsoft, 2023)
 - Data Analysis with ML & Data Viz (Udemy, 2024)
 
----
 
 ## Honors & Awards
 
 - Academic Excellence Scholarship (2021)\
-- Achieved highest GPA (4.9/5.0) at the Faculty of Natural Sciences and Engineering (University of Bogotá Jorge Tadeo Lozano).
+- Achieved the highest GPA (4.9/5.0) at the Faculty of Natural Sciences and Engineering (University of Bogotá Jorge Tadeo Lozano).
