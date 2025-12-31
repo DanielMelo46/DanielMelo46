@@ -19,7 +19,7 @@ These are the tools I love:
 **Data Visualization and Reporting:**\
 `Power BI` `Amazon QuickSight` `Plotly` `Dash`\
 **Additional:**\
-`Git and GitHub` `Jira` `MongoDB` `Excel (Advanced)`
+`Git and GitHub` `Jira` `MongoDB` `Excel`
 
 
 This is a space reserved as a **get-to-know-me** for what I LOVE to do, and I really appreciate your visit :)
